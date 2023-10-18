@@ -29,7 +29,7 @@ The plastic pieces and the electronic are held together by friction. The pieces 
 
 ### Specifications
 PWM 12-Bit 1KHz, reduced to 50Hz when at least one servo motor is attached & used.
-When not disturbed by any user input, the generator output 50 points per seconds. Each signal is made of 2048 points.   
+When not disturbed by any user input, the generator output 50 points per seconds for each signal (50x16 points for the 16 signals). Each signal is made of 2048 points.   
 ## Overview
 The device with the front case removed:
 
