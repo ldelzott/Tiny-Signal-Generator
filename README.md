@@ -1,7 +1,7 @@
 # Hobby-grade micro signal generator made with off-the-shelve components
 (Made in january 2023)
 
-PWM signal generator based on an ESP32 microcontroller. The user can configure individually each of the 16 PWM signals generated "simultaneously". The configuration is done via a physical & software user interface made of 4 push buttons and a 1.3" screen displaying a custom GUI. The electronic is encased in a 3D-printed plastic shell.
+PWM signal generator based on an ESP32 microcontroller. The user can configure and customize individually each of the 16 PWM signals generated "simultaneously" by the device. The configuration is done via a physical & software user interface made of 4 push buttons and a 1.3" screen displaying a custom GUI. The electronic is encased in a 3D-printed plastic shell. The device can power standard 5mm LEDs or small servo motors (e.g. TowerPro SG90).  
 
 ## Plastic shell
 The plastic pieces and the electronic are held together by friction. The pieces can be printed without any supports. 
