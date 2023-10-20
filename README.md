@@ -28,7 +28,7 @@ The plastic pieces and the electronic are held together by friction. The pieces 
 <img width="666" alt="wire_diagram_draftpng" src="https://github.com/ldelzott/Tiny-Signal-Generator/assets/78430576/cd7d5477-0c07-418e-bb92-7158924d5ae4">
 
 ### Specifications
-PWM 12-Bit 1KHz, reduced to 50Hz when at least one servo motor is attached & used.
+Generate 16 PWM signals of 12-Bit at 1KHz, the PWM is reduced to 50Hz when at least one servo motor is attached & used.
 When not disturbed by any user input, the generator outputs 50 points per second for each signal (50x16 points per second for the 16 signals). Each signal is made of 2048 points.   
 ## Overview
 The device with the front case removed:
